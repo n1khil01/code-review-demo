@@ -1,2 +1,2 @@
 # code-review-demo
-capstone growing a competency project
+growing a competency project for capstone
